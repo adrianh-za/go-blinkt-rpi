@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"syscall"
 	"time"
-	"../gpio"
+	"github.com/adrianh-za/gpio-rpi"
 )
 
 // DAT is the Data pin for Blinkt
