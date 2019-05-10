@@ -8,6 +8,8 @@ This project draws inspiration and borrows heavily from the work done by <b>Alex
 
 ## Gits ##
 
+https://github.com/ikester/gpio
+
 https://github.com/ikester/blinkt
 
 https://github.com/alexellis/blinkt_go
