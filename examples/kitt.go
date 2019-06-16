@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/adrianh-za/blinkt-rpi"
+	"github.com/adrianh-za/go-blinkt-rpi"
 )
 
 func main() {

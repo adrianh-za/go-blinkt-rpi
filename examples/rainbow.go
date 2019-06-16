@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/adrianh-za/blinkt-rpi"
-	"github.com/adrianh-za/utils-golang/colorsys"
+	"github.com/adrianh-za/go-blinkt-rpi"
+	"github.com/adrianh-za/go-utils/colorsys"
 )
 
 func main() {
@@ -33,6 +33,6 @@ func main() {
 
 		//Show and do a small delay
 		blinkt.Show()
-		time.Sleep(10 * time.Millisecond)
+		time.Sleep(5 * time.Millisecond)
 	}
 }
